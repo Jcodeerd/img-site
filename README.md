@@ -9,3 +9,6 @@ Idc, just give me credit when you use my stuff.
 # Contributors:
 Feel free to add yourself here after you've made a PR.
 <img src="https://github.com/Jcodeerd.png" width="64">
+
+# Rules:
+1. No optimization
