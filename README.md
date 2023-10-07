@@ -6,4 +6,4 @@ This repo hosts the files for my images/quotes webpage!
 Idc, just give me credit when you use my stuff.
 
 # Contributors:
-![GitHub profile picture](https://github.com/Kaashout.png)
+![GitHub profile picture](https://github.com/Jcodeerd.png)
