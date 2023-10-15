@@ -1,5 +1,5 @@
 # img-site
-This repo hosts the files for my images/quotes webpage! https://kaashout.me
+This repo hosts the files for my images/quotes webpage! https://img.kaashout.me
 
 To add quotes/images: fork the repo, add your image to /saved/, create a PR and wait
 
