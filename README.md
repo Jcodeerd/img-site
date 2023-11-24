@@ -1,11 +1,11 @@
 # img-site
-This repo hosts the files for my images/quotes webpage! https://kaashout.me
+This repo hosts the files for my images/quotes webpage! [img.kaashout.me](https://img.kaashout.me)
 
-To add quotes/images: fork the repo, add your image to /saved/, create a PR and wait
+To add quotes/images: fork the repo, add your image to saved/, create a PR and wait
 
 # License:
 
-this follows the unlicense which is a fancy shmancy way of saying its all public domain - do whatever tf you want
+this follows the unlicense which is a fancy shmancy way of saying its all public domain - do whatever you want
 
 # Contributors:
 Feel free to add yourself here after you've made a PR.
